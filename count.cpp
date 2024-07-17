@@ -1,3 +1,4 @@
+//count of 3 multiples
 #include<iostream>
 using namespace std;
 int count=0;
