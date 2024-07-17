@@ -5,7 +5,7 @@ int divisibleBy3(int arr[],int size)
 {
     for(int j=0;j<size;j++)
     {
-        if(j<0)
+        if(arr[j]<0)
         {
             cout<<"Invalid Input";
         }
